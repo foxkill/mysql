@@ -1,2 +1,2 @@
 # mysql
-configuration file mysql
+configuration files for mariadb server
